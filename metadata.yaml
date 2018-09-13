@@ -1,11 +1,14 @@
 _repo: Oodit-Karmen-Seekulaare-ja-Epoodit_51348
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Leino, Adam
     alias: Leino, A.
     gutenberg_agent_id: '46371'
     url: http://www.gutenberg.org/2009/agents/46371
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Horace
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1790
     wikipedia: http://en.wikipedia.org/wiki/Horace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51348#Oodit-Karmen-Seekulaare-ja-Epoodit
 gutenberg_issued: '2016-03-03'
 gutenberg_type: Text
 identifiers:
