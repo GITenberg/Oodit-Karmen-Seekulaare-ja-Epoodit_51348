@@ -1,0 +1,35 @@
+_repo: Oodit-Karmen-Seekulaare-ja-Epoodit_51348
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Leino, Adam
+    alias: Leino, A.
+    gutenberg_agent_id: '46371'
+    url: http://www.gutenberg.org/2009/agents/46371
+creator:
+  author:
+    agent_name: Horace
+    aliases:
+    - Flaccus, Quintus Horatius
+    - Horatius Flaccus, Quintus
+    birthdate: -65
+    deathdate: -8
+    gutenberg_agent_id: '1790'
+    url: http://www.gutenberg.org/2009/agents/1790
+    wikipedia: http://en.wikipedia.org/wiki/Horace
+description: ''
+gutenberg_issued: '2016-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51348'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horace -- Translations into Finnish'
+- !lcsh 'Latin poetry -- Translations into Finnish'
+- !lcc 'PA'
+- GITenberg
+title: Oodit, Karmen-Seekulaare ja Epoodit
+url: http://www.gutenberg.org/ebooks/51348
